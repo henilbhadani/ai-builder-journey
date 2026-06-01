@@ -11,3 +11,14 @@ Starting: June 2026
 ## Current Step
 
 Day 0
+
+## Roadmap
+
+- [ ] Python + APIs
+- [ ] LLM APIs & Prompt Engineering
+- [ ] FastAPI
+- [ ] RAG
+- [ ] Evaluation & Observability
+- [ ] AI Agents
+- [ ] Voice Assistant
+- [ ] AI SaaS
